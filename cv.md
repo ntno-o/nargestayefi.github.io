@@ -22,8 +22,6 @@ inshallah
 My favorite website is [pinterest](http://www.pinterest.com).
 
 
-## Esfahan
-ldkfjs
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
@@ -33,4 +31,4 @@ ldkfjs
 
 |  Number | Name |
 |---------|------|
-|1        | Ali  |
+|1        | Narges  |

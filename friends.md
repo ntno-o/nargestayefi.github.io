@@ -10,7 +10,7 @@ comments: true
 
 ### همکلاسی‌ها
 * [THE TWINS]()
-* [ZAINAB]()
+* [ZEINAB]()
 * EVERYBODY ELSE
 
 

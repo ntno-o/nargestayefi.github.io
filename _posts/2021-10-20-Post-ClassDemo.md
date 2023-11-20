@@ -1,23 +1,20 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: traveling
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## This is a piece of my summer this year
+Places in the pictures are:
+- Isfahan
+- Ramsar
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/IMG_20231120_133240_258-1.jpg "Isfahan")
+![alt text](../assets/images/IMG_20231120_133240_485.jpg "Isfahan")
+![alt text](../assets/images/IMG_20231120_133245_982.jpg "Ramsar")
 
 ---
 **Test**: This is atest

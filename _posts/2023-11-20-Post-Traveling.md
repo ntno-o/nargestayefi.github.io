@@ -12,7 +12,7 @@ Places in the pictures are:
 
 
 
-![alt text](../assets/images/IMG_20231120_133240_258-1.jpg "Isfahan")
+![alt text](../assets/images/IMG_20231120_133240_258.jpg "Isfahan")
 ![alt text](../assets/images/IMG_20231120_133240_485.jpg "Isfahan")
 ![alt text](../assets/images/IMG_20231120_133245_982.jpg "Ramsar")
 

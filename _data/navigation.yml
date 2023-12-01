@@ -14,8 +14,8 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-  - title: "calender"
-    url: /Calender/
+  - title: "Calendar"
+    url: /calendar/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

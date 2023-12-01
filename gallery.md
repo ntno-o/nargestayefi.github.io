@@ -7,17 +7,22 @@ tags: [gallery]
 modified: 11-20-2023
 comments: false
 gallery:
-  - url: /assets/images/IMG_20231120_134803_446.jpg
-    image_path: /assets/images/IMG_20231120_134803_446.jpg
+  - url: /assets/images/OIG1.jpeg
+    image_path: /assets/images/OIG1.jpeg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/IMG_20231120_134804_026.jpg
-    image_path: /assets/images/IMG_20231120_134804_026.jpg
+    title: "Image 1 AI creat"
+  - url: /assets/images/OIG2.jpeg
+    image_path: /assets/images/OIG2.jpeg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/IMG_20231120_134804_049.jpg
-    image_path: /assets/images/IMG_20231120_134804_049.jpg
+    title: "Image 2 AI creat"
+  - url: /assets/images/OIG3.jpeg
+    image_path: /assets/images/OIG3.jpeg
     alt: "placeholder image 3"
+    title: "image 3 AI creat"
+  - url: /assets/images/OIG4.jpeg
+    image_path: /assets/images/OIG4.jpeg
+    alt: "placeholder image 4"
+    title: "image 4 AI creat"
 
 ---
 

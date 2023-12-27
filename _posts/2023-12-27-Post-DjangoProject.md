@@ -9,7 +9,7 @@ title: Django Project
 
 ## STEP1
 
-thinking of an idea qbout what we can do with django according to our current knowledge
+thinking of an idea about what we can do with django according to our current knowledge
 <br>
 my idea then was a website in which sellers can submit data about their stores like name, type of the store, address, telephone number, and finally opening/closing hours;
 and purchasers can search whether a store is open at a specific time of the day. 
@@ -52,7 +52,7 @@ be ready for presentation
 <br>
 
 
-<p>here is <a href="n402521376.pythonanywhere.com/storetime/">my webapp </a></p> 
+<p>here is <a href="n402521376.pythonanywhere.com">my webapp </a></p> 
 
 
 

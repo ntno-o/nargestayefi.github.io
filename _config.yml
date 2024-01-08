@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "NargesTayefi"
-  avatar           : "assests/images/IMG_20231117_194923_196.jpg"
+  avatar           : "../assests/images/IMG_20231117_194923_196.jpg"
   bio              : staying awake
   location         : "تهران"
   email            : nargesstayefi@gmail.com

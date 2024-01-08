@@ -53,6 +53,7 @@ be ready for presentation
 
 
 <p>here is <a href="http://n402521378.pythonanywhere.com">my webapp </a></p> 
+make sure to add /storetime/ at the end
 
 
 

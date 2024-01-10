@@ -4,19 +4,21 @@ author_profile: true
 permalink: /cv/
 title: Resume
 tags: [resume, cv]
-modified: 4-14-2019
+modified: 10-01-2024
 comments: false
 ---
 
 
 # PYTHON
-
 in progress
 
 ## GERMAN
 in progress
 
-### other activities
+### C
+in progress
+
+#### other activities
 inshallah
 
 My favorite website is [pinterest](http://www.pinterest.com).
